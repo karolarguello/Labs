@@ -28,6 +28,9 @@ public class week1 {
 		System.out.println(customerFullName);
 		System.out.println("This is our customer " + customerFirstName + " he works at" + streetAddress + ".");
 		
+		  String employeeName = "Tony Stark";
+
+		  System.out.println("Hi, my name is " + employeeName);
 		
 		
 	}
